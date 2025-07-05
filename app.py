@@ -14,7 +14,7 @@ background-size: cover;
 
 </style>
 """
-st.set_page_config(page_title="Movie Recommendation System")
+st.set_page_config(page_title="Movie Recommendation System", page_icon="🎬")
 
 st.markdown(page_bg_img, unsafe_allow_html=True)
 
